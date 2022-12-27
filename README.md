@@ -12,5 +12,5 @@ A platformer controller with some extra mechanics
 - Holding down the jump button allows the player to jump higher and gives more air time. A light tap will result in a shorter jumps
 ![jumpLength.gif](https://github.com/chuhaow/ProjectGifs/blob/main/2dController/JumpControl.gif)
 ### Wall slide and Wall Jump
-- If the player is in the air and moving towards a wall they will being to slide down slowly. Pressing the jump button while in this state causes the player to jump.
+- If the player is in the air and moving towards a wall they will being to slide down slowly. Pressing the jump button while in this state causes the player to jump.  
 ![wallJump.gif](https://github.com/chuhaow/ProjectGifs/blob/main/2dController/wall%20jump.gif)
